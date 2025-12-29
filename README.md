@@ -1,6 +1,9 @@
-Itkin et al. [2025] Towards detection of pressure ridge thickness, consolidation, and melt by electromagnetic induction
+Itkin et al. [2025] Year-round assessment of sea ice pressure ridges by multi-frequency electromagnetic induction sounding
+https://doi.org/10.5194/egusphere-2025-6081
 
-MATLAB codes are provided to model the temporal evolution of the consolidated layer of Alli's Ridge (doi:10.1525/elementa.2023.00008) and Fort Ridge within MOSAiC Central Observatory (doi:10.1525/elementa.2021.000046).
+MATLAB codes are provided to
+1. Generate Fig. 2 to illustrate historical observations of ridge porosity and consolidation.
+2. Generate Fig. 11 to model the temporal evolution of the consolidated layer of the two selected ridges.
 
 The script uses the following datasets:
 - Ridge thermodynamic model, doi:10.1016/j.coldregions.2020.103194
@@ -17,3 +20,5 @@ The script uses the following datasets:
 - Alli's ridge drilling data, doi:10.1594/PANGAEA.950192
 - Fort Ridge drilling data, doi:10.1594/PANGAEA.960347
 - Snow thermal conductivity CT estimates, doi:10.5194/tc-17-5417-2023
+
+Two selected ridges include Alli's Ridge (doi:10.1525/elementa.2023.00008) and Fort Ridge within MOSAiC Central Observatory (doi:10.1525/elementa.2021.000046).
